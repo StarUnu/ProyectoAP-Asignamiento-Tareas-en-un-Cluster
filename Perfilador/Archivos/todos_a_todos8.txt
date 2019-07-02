@@ -1,0 +1,72 @@
+0 tiempo mensaje 0.002757 
+0 sumatoria 0.002757 
+0 recibio mensaje '3' desde 3
+0 recibio mensaje '6' desde 6
+3 tiempo mensaje 0.002567 
+0 sumatoria 0.002567 
+3 recibio mensaje '6' desde 6
+3 recibio mensaje '0' desde 0
+6 tiempo mensaje 0.002821 
+0 sumatoria 0.002821 
+6 recibio mensaje '3' desde 3
+6 recibio mensaje '0' desde 0
+2 tiempo mensaje 0.003100 
+0 sumatoria 0.003100 
+2 recibio mensaje '5' desde 5
+5 tiempo mensaje 0.003191 
+0 sumatoria 0.003191 
+5 recibio mensaje '2' desde 2
+7 tiempo mensaje 0.003939 
+0 sumatoria 0.003939 
+1 tiempo mensaje 0.002518 
+0 sumatoria 0.002518 
+1 recibio mensaje '4' desde 4
+1 recibio mensaje '7' desde 7
+7 recibio mensaje '1' desde 1
+7 recibio mensaje '4' desde 4
+4 tiempo mensaje 0.002710 
+0 sumatoria 0.002710 
+4 recibio mensaje '1' desde 1
+4 recibio mensaje '7' desde 7
+0 recibio mensaje '1' desde 1
+5 recibio mensaje '1' desde 1
+6 recibio mensaje '1' desde 1
+0 recibio mensaje '5' desde 5
+6 recibio mensaje '5' desde 5
+3 recibio mensaje '2' desde 2
+0 recibio mensaje '7' desde 7
+1 recibio mensaje '5' desde 5
+0 recibio mensaje '4' desde 4
+1 recibio mensaje '0' desde 0
+3 recibio mensaje '1' desde 1
+3 recibio mensaje '5' desde 5
+0 recibio mensaje '2' desde 2
+2 recibio mensaje '3' desde 3
+2 recibio mensaje '0' desde 0
+6 recibio mensaje '2' desde 2
+5 recibio mensaje '3' desde 3
+5 recibio mensaje '0' desde 0
+5 recibio mensaje '6' desde 6
+5 recibio mensaje '4' desde 4
+2 recibio mensaje '1' desde 1
+2 recibio mensaje '6' desde 6
+1 recibio mensaje '6' desde 6
+4 recibio mensaje '2' desde 2
+4 recibio mensaje '0' desde 0
+4 recibio mensaje '5' desde 5
+7 recibio mensaje '2' desde 2
+7 recibio mensaje '0' desde 0
+7 recibio mensaje '5' desde 5
+1 recibio mensaje '3' desde 3
+1 recibio mensaje '2' desde 2
+2 recibio mensaje '4' desde 4
+2 recibio mensaje '7' desde 7
+5 recibio mensaje '7' desde 7
+3 recibio mensaje '7' desde 7
+4 recibio mensaje '3' desde 3
+6 recibio mensaje '7' desde 7
+7 recibio mensaje '3' desde 3
+7 recibio mensaje '6' desde 6
+3 recibio mensaje '4' desde 4
+6 recibio mensaje '4' desde 4
+4 recibio mensaje '6' desde 6

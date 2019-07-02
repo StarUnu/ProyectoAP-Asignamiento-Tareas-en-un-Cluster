@@ -1,0 +1,480 @@
+Actual proceso 14 hacia el proceso : 0 latencia de envio :) : 0.000481 
+Actual proceso 14 hacia el proceso : 1 latencia de envio :) : 0.000345 
+Actual proceso 14 hacia el proceso : 2 latencia de envio :) : 0.000003 
+Actual proceso 14 hacia el proceso : 3 latencia de envio :) : 0.000327 
+Actual proceso 2 hacia el proceso : 0 latencia de envio :) : 0.000356 
+Actual proceso 6 hacia el proceso : 0 latencia de envio :) : 0.000010 
+Actual proceso 2 hacia el proceso : 1 latencia de envio :) : 0.000313 
+Actual proceso 2 hacia el proceso : 3 latencia de envio :) : 0.000237 
+Actual proceso 9 hacia el proceso : 0 latencia de envio :) : 0.000006 
+Actual proceso 8 hacia el proceso : 0 latencia de envio :) : 0.000498 
+Actual proceso 8 hacia el proceso : 1 latencia de envio :) : 0.000605 
+Actual proceso 8 hacia el proceso : 2 latencia de envio :) : 0.000002 
+Actual proceso 12 hacia el proceso : 0 latencia de envio :) : 0.000011 
+Actual proceso 11 hacia el proceso : 0 latencia de envio :) : 0.000555 
+Actual proceso 11 hacia el proceso : 1 latencia de envio :) : 0.000598 
+Actual proceso 11 hacia el proceso : 2 latencia de envio :) : 0.000003 
+Actual proceso 5 hacia el proceso : 0 latencia de envio :) : 0.000578 
+Actual proceso 5 hacia el proceso : 1 latencia de envio :) : 0.000765 
+Actual proceso 5 hacia el proceso : 2 latencia de envio :) : 0.000003 
+Actual proceso 2 hacia el proceso : 4 latencia de envio :) : 0.000490 
+Actual proceso 14 hacia el proceso : 4 latencia de envio :) : 0.000632 
+Actual proceso 14 hacia el proceso : 5 latencia de envio :) : 0.000002 
+Actual proceso 5 hacia el proceso : 3 latencia de envio :) : 0.000306 
+Actual proceso 8 hacia el proceso : 3 latencia de envio :) : 0.000568 
+Actual proceso 11 hacia el proceso : 3 latencia de envio :) : 0.000574 
+Actual proceso 14 hacia el proceso : 6 latencia de envio :) : 0.000772 
+Actual proceso 0 hacia el proceso : 1 latencia de envio :) : 0.000911 
+Actual proceso 6 hacia el proceso : 1 latencia de envio :) : 0.000209 
+Actual proceso 0 hacia el proceso : 2 latencia de envio :) : 0.000278 
+Actual proceso 0 hacia el proceso : 3 latencia de envio :) : 0.000002 
+Actual proceso 6 hacia el proceso : 2 latencia de envio :) : 0.000297 
+Actual proceso 0 hacia el proceso : 4 latencia de envio :) : 0.000158 
+Actual proceso 6 hacia el proceso : 3 latencia de envio :) : 0.000002 
+Actual proceso 6 hacia el proceso : 4 latencia de envio :) : 0.000309 
+Actual proceso 0 hacia el proceso : 5 latencia de envio :) : 0.000319 
+Actual proceso 0 hacia el proceso : 6 latencia de envio :) : 0.000002 
+Actual proceso 0 hacia el proceso : 7 latencia de envio :) : 0.000173 
+Actual proceso 9 hacia el proceso : 1 latencia de envio :) : 0.002939 
+Actual proceso 0 hacia el proceso : 8 latencia de envio :) : 0.000190 
+Actual proceso 0 hacia el proceso : 9 latencia de envio :) : 0.000002 
+Actual proceso 6 hacia el proceso : 5 latencia de envio :) : 0.000485 
+Actual proceso 0 hacia el proceso : 10 latencia de envio :) : 0.000275 
+Actual proceso 0 hacia el proceso : 11 latencia de envio :) : 0.000224 
+Actual proceso 0 hacia el proceso : 12 latencia de envio :) : 0.000001 
+Actual proceso 6 hacia el proceso : 7 latencia de envio :) : 0.000391 
+Actual proceso 0 hacia el proceso : 13 latencia de envio :) : 0.000169 
+Actual proceso 3 hacia el proceso : 0 latencia de envio :) : 0.000004 
+Actual proceso 9 hacia el proceso : 2 latencia de envio :) : 0.000906 
+Actual proceso 9 hacia el proceso : 3 latencia de envio :) : 0.000002 
+Actual proceso 15 hacia el proceso : 0 latencia de envio :) : 0.000003 
+Actual proceso 0 hacia el proceso : 14 latencia de envio :) : 0.000241 
+Actual proceso 0 hacia el proceso : 15 latencia de envio :) : 0.000001 
+0 recibio mensaje '3' desde 3
+0 recibio mensaje '6' desde 6
+0 recibio mensaje '9' desde 9
+0 recibio mensaje '12' desde 12
+0 recibio mensaje '15' desde 15
+Actual proceso 3 hacia el proceso : 1 latencia de envio :) : 0.000221 
+Actual proceso 3 hacia el proceso : 2 latencia de envio :) : 0.000181 
+Actual proceso 12 hacia el proceso : 1 latencia de envio :) : 0.004035 
+Actual proceso 15 hacia el proceso : 1 latencia de envio :) : 0.000292 
+Actual proceso 3 hacia el proceso : 4 latencia de envio :) : 0.000225 
+Actual proceso 12 hacia el proceso : 2 latencia de envio :) : 0.000391 
+Actual proceso 12 hacia el proceso : 3 latencia de envio :) : 0.000001 
+Actual proceso 6 hacia el proceso : 8 latencia de envio :) : 0.000984 
+Actual proceso 6 hacia el proceso : 9 latencia de envio :) : 0.000002 
+Actual proceso 6 hacia el proceso : 10 latencia de envio :) : 0.000175 
+Actual proceso 6 hacia el proceso : 11 latencia de envio :) : 0.000179 
+Actual proceso 6 hacia el proceso : 12 latencia de envio :) : 0.000001 
+Actual proceso 15 hacia el proceso : 2 latencia de envio :) : 0.001224 
+Actual proceso 15 hacia el proceso : 3 latencia de envio :) : 0.000001 
+Actual proceso 6 hacia el proceso : 13 latencia de envio :) : 0.000288 
+Actual proceso 3 hacia el proceso : 5 latencia de envio :) : 0.000350 
+Actual proceso 3 hacia el proceso : 6 latencia de envio :) : 0.000001 
+Actual proceso 3 hacia el proceso : 7 latencia de envio :) : 0.000180 
+Actual proceso 12 hacia el proceso : 4 latencia de envio :) : 0.001037 
+Actual proceso 15 hacia el proceso : 4 latencia de envio :) : 0.000174 
+Actual proceso 6 hacia el proceso : 14 latencia de envio :) : 0.000954 
+Actual proceso 6 hacia el proceso : 15 latencia de envio :) : 0.000002 
+6 recibio mensaje '3' desde 3
+6 recibio mensaje '0' desde 0
+Actual proceso 9 hacia el proceso : 4 latencia de envio :) : 0.000209 
+Actual proceso 9 hacia el proceso : 5 latencia de envio :) : 0.000182 
+Actual proceso 9 hacia el proceso : 6 latencia de envio :) : 0.000001 
+6 recibio mensaje '9' desde 9
+Actual proceso 9 hacia el proceso : 7 latencia de envio :) : 0.000160 
+Actual proceso 12 hacia el proceso : 5 latencia de envio :) : 0.000751 
+Actual proceso 12 hacia el proceso : 6 latencia de envio :) : 0.000002 
+6 recibio mensaje '12' desde 12
+6 recibio mensaje '15' desde 15
+Actual proceso 9 hacia el proceso : 8 latencia de envio :) : 0.000150 
+Actual proceso 9 hacia el proceso : 10 latencia de envio :) : 0.000218 
+Actual proceso 15 hacia el proceso : 5 latencia de envio :) : 0.000751 
+Actual proceso 15 hacia el proceso : 6 latencia de envio :) : 0.000001 
+Actual proceso 12 hacia el proceso : 7 latencia de envio :) : 0.000146 
+Actual proceso 3 hacia el proceso : 8 latencia de envio :) : 0.001380 
+Actual proceso 3 hacia el proceso : 9 latencia de envio :) : 0.000001 
+Actual proceso 3 hacia el proceso : 10 latencia de envio :) : 0.000224 
+Actual proceso 9 hacia el proceso : 11 latencia de envio :) : 0.000213 
+Actual proceso 9 hacia el proceso : 12 latencia de envio :) : 0.000002 
+Actual proceso 15 hacia el proceso : 7 latencia de envio :) : 0.000254 
+Actual proceso 12 hacia el proceso : 8 latencia de envio :) : 0.000411 
+Actual proceso 12 hacia el proceso : 9 latencia de envio :) : 0.000001 
+Actual proceso 9 hacia el proceso : 13 latencia de envio :) : 0.000468 
+Actual proceso 12 hacia el proceso : 10 latencia de envio :) : 0.000499 
+Actual proceso 9 hacia el proceso : 14 latencia de envio :) : 0.000185 
+Actual proceso 9 hacia el proceso : 15 latencia de envio :) : 0.000002 
+9 recibio mensaje '3' desde 3
+9 recibio mensaje '0' desde 0
+9 recibio mensaje '6' desde 6
+9 recibio mensaje '12' desde 12
+Actual proceso 3 hacia el proceso : 11 latencia de envio :) : 0.000801 
+Actual proceso 3 hacia el proceso : 12 latencia de envio :) : 0.000002 
+Actual proceso 3 hacia el proceso : 13 latencia de envio :) : 0.000182 
+Actual proceso 3 hacia el proceso : 14 latencia de envio :) : 0.000198 
+Actual proceso 3 hacia el proceso : 15 latencia de envio :) : 0.000002 
+3 recibio mensaje '6' desde 6
+3 recibio mensaje '0' desde 0
+3 recibio mensaje '9' desde 9
+3 recibio mensaje '12' desde 12
+3 recibio mensaje '15' desde 15
+Actual proceso 12 hacia el proceso : 11 latencia de envio :) : 0.007421 
+9 recibio mensaje '15' desde 15
+Actual proceso 15 hacia el proceso : 8 latencia de envio :) : 0.008224 
+Actual proceso 15 hacia el proceso : 9 latencia de envio :) : 0.000002 
+Actual proceso 12 hacia el proceso : 13 latencia de envio :) : 0.000185 
+Actual proceso 15 hacia el proceso : 10 latencia de envio :) : 0.000258 
+Actual proceso 12 hacia el proceso : 14 latencia de envio :) : 0.000194 
+Actual proceso 12 hacia el proceso : 15 latencia de envio :) : 0.000001 
+12 recibio mensaje '3' desde 3
+12 recibio mensaje '0' desde 0
+12 recibio mensaje '6' desde 6
+12 recibio mensaje '9' desde 9
+Actual proceso 15 hacia el proceso : 11 latencia de envio :) : 0.008138 
+Actual proceso 15 hacia el proceso : 12 latencia de envio :) : 0.000001 
+Actual proceso 15 hacia el proceso : 13 latencia de envio :) : 0.001442 
+Actual proceso 15 hacia el proceso : 14 latencia de envio :) : 0.000188 
+15 recibio mensaje '3' desde 3
+15 recibio mensaje '0' desde 0
+15 recibio mensaje '6' desde 6
+15 recibio mensaje '9' desde 9
+15 recibio mensaje '12' desde 12
+12 recibio mensaje '15' desde 15
+Actual proceso 14 hacia el proceso : 7 latencia de envio :) : 0.000347 
+Actual proceso 14 hacia el proceso : 8 latencia de envio :) : 0.000002 
+Actual proceso 2 hacia el proceso : 5 latencia de envio :) : 0.000003 
+Actual proceso 2 hacia el proceso : 6 latencia de envio :) : 0.000264 
+Actual proceso 14 hacia el proceso : 9 latencia de envio :) : 0.000331 
+Actual proceso 14 hacia el proceso : 10 latencia de envio :) : 0.000373 
+Actual proceso 14 hacia el proceso : 11 latencia de envio :) : 0.000002 
+Actual proceso 2 hacia el proceso : 7 latencia de envio :) : 0.000237 
+Actual proceso 2 hacia el proceso : 8 latencia de envio :) : 0.000002 
+Actual proceso 2 hacia el proceso : 9 latencia de envio :) : 0.000347 
+Actual proceso 5 hacia el proceso : 4 latencia de envio :) : 0.000334 
+Actual proceso 5 hacia el proceso : 6 latencia de envio :) : 0.000388 
+Actual proceso 8 hacia el proceso : 4 latencia de envio :) : 0.000308 
+Actual proceso 8 hacia el proceso : 5 latencia de envio :) : 0.000002 
+Actual proceso 14 hacia el proceso : 12 latencia de envio :) : 0.000376 
+Actual proceso 2 hacia el proceso : 10 latencia de envio :) : 0.000427 
+Actual proceso 2 hacia el proceso : 11 latencia de envio :) : 0.000002 
+Actual proceso 2 hacia el proceso : 12 latencia de envio :) : 0.000487 
+Actual proceso 11 hacia el proceso : 4 latencia de envio :) : 0.000721 
+Actual proceso 11 hacia el proceso : 5 latencia de envio :) : 0.000002 
+Actual proceso 5 hacia el proceso : 7 latencia de envio :) : 0.000559 
+Actual proceso 5 hacia el proceso : 8 latencia de envio :) : 0.000002 
+Actual proceso 8 hacia el proceso : 6 latencia de envio :) : 0.000785 
+Actual proceso 8 hacia el proceso : 7 latencia de envio :) : 0.000762 
+Actual proceso 14 hacia el proceso : 13 latencia de envio :) : 0.000914 
+Actual proceso 2 hacia el proceso : 13 latencia de envio :) : 0.000304 
+Actual proceso 2 hacia el proceso : 14 latencia de envio :) : 0.000001 
+Actual proceso 2 hacia el proceso : 15 latencia de envio :) : 0.000413 
+2 recibio mensaje '5' desde 5
+2 recibio mensaje '8' desde 8
+2 recibio mensaje '11' desde 11
+2 recibio mensaje '14' desde 14
+Actual proceso 11 hacia el proceso : 6 latencia de envio :) : 0.000899 
+Actual proceso 5 hacia el proceso : 9 latencia de envio :) : 0.000791 
+Actual proceso 8 hacia el proceso : 9 latencia de envio :) : 0.000495 
+Actual proceso 14 hacia el proceso : 15 latencia de envio :) : 0.000828 
+14 recibio mensaje '2' desde 2
+Actual proceso 11 hacia el proceso : 7 latencia de envio :) : 0.000863 
+Actual proceso 11 hacia el proceso : 8 latencia de envio :) : 0.000004 
+Actual proceso 5 hacia el proceso : 10 latencia de envio :) : 0.000326 
+Actual proceso 5 hacia el proceso : 11 latencia de envio :) : 0.000002 
+Actual proceso 8 hacia el proceso : 10 latencia de envio :) : 0.000342 
+Actual proceso 8 hacia el proceso : 11 latencia de envio :) : 0.000003 
+Actual proceso 5 hacia el proceso : 12 latencia de envio :) : 0.000341 
+Actual proceso 11 hacia el proceso : 9 latencia de envio :) : 0.000290 
+Actual proceso 8 hacia el proceso : 12 latencia de envio :) : 0.000367 
+Actual proceso 11 hacia el proceso : 10 latencia de envio :) : 0.000379 
+Actual proceso 5 hacia el proceso : 13 latencia de envio :) : 0.000419 
+Actual proceso 5 hacia el proceso : 14 latencia de envio :) : 0.000002 
+Actual proceso 5 hacia el proceso : 15 latencia de envio :) : 0.000245 
+5 recibio mensaje '2' desde 2
+5 recibio mensaje '8' desde 8
+5 recibio mensaje '11' desde 11
+5 recibio mensaje '14' desde 14
+Actual proceso 8 hacia el proceso : 13 latencia de envio :) : 0.000413 
+Actual proceso 8 hacia el proceso : 14 latencia de envio :) : 0.000002 
+14 recibio mensaje '5' desde 5
+14 recibio mensaje '8' desde 8
+Actual proceso 11 hacia el proceso : 12 latencia de envio :) : 0.000360 
+Actual proceso 8 hacia el proceso : 15 latencia de envio :) : 0.000331 
+8 recibio mensaje '2' desde 2
+8 recibio mensaje '5' desde 5
+8 recibio mensaje '11' desde 11
+8 recibio mensaje '14' desde 14
+Actual proceso 11 hacia el proceso : 13 latencia de envio :) : 0.000394 
+Actual proceso 11 hacia el proceso : 14 latencia de envio :) : 0.000002 
+14 recibio mensaje '11' desde 11
+Actual proceso 11 hacia el proceso : 15 latencia de envio :) : 0.000318 
+11 recibio mensaje '2' desde 2
+11 recibio mensaje '5' desde 5
+11 recibio mensaje '8' desde 8
+11 recibio mensaje '14' desde 14
+8 recibio mensaje '1' desde 1
+2 recibio mensaje '1' desde 1
+0 recibio mensaje '5' desde 5
+Actual proceso 1 hacia el proceso : 0 latencia de envio :) : 0.000290 
+0 recibio mensaje '10' desde 10
+Actual proceso 10 hacia el proceso : 0 latencia de envio :) : 0.000363 
+Actual proceso 10 hacia el proceso : 1 latencia de envio :) : 0.000001 
+5 recibio mensaje '1' desde 1
+Actual proceso 13 hacia el proceso : 0 latencia de envio :) : 0.000324 
+Actual proceso 13 hacia el proceso : 1 latencia de envio :) : 0.000007 
+Actual proceso 1 hacia el proceso : 2 latencia de envio :) : 0.000113 
+Actual proceso 1 hacia el proceso : 3 latencia de envio :) : 0.000138 
+Actual proceso 1 hacia el proceso : 4 latencia de envio :) : 0.000001 
+Actual proceso 13 hacia el proceso : 2 latencia de envio :) : 0.000160 
+Actual proceso 7 hacia el proceso : 0 latencia de envio :) : 0.000601 
+Actual proceso 7 hacia el proceso : 1 latencia de envio :) : 0.000002 
+0 recibio mensaje '8' desde 8
+Actual proceso 13 hacia el proceso : 3 latencia de envio :) : 0.000187 
+Actual proceso 10 hacia el proceso : 2 latencia de envio :) : 0.000383 
+Actual proceso 7 hacia el proceso : 2 latencia de envio :) : 0.000729 
+Actual proceso 7 hacia el proceso : 3 latencia de envio :) : 0.000417 
+Actual proceso 10 hacia el proceso : 3 latencia de envio :) : 0.000151 
+Actual proceso 10 hacia el proceso : 4 latencia de envio :) : 0.000002 
+Actual proceso 13 hacia el proceso : 4 latencia de envio :) : 0.000004 
+Actual proceso 1 hacia el proceso : 5 latencia de envio :) : 0.000608 
+Actual proceso 1 hacia el proceso : 6 latencia de envio :) : 0.000184 
+Actual proceso 1 hacia el proceso : 7 latencia de envio :) : 0.000002 
+Actual proceso 10 hacia el proceso : 5 latencia de envio :) : 0.000411 
+Actual proceso 1 hacia el proceso : 8 latencia de envio :) : 0.000138 
+Actual proceso 1 hacia el proceso : 9 latencia de envio :) : 0.000209 
+Actual proceso 1 hacia el proceso : 10 latencia de envio :) : 0.000001 
+Actual proceso 4 hacia el proceso : 0 latencia de envio :) : 0.000145 
+Actual proceso 4 hacia el proceso : 1 latencia de envio :) : 0.000001 
+Actual proceso 4 hacia el proceso : 2 latencia de envio :) : 0.000182 
+Actual proceso 13 hacia el proceso : 5 latencia de envio :) : 0.000848 
+Actual proceso 7 hacia el proceso : 4 latencia de envio :) : 0.000002 
+Actual proceso 7 hacia el proceso : 5 latencia de envio :) : 0.000272 
+Actual proceso 10 hacia el proceso : 6 latencia de envio :) : 0.000205 
+Actual proceso 10 hacia el proceso : 7 latencia de envio :) : 0.000001 
+0 recibio mensaje '13' desde 13
+Actual proceso 1 hacia el proceso : 11 latencia de envio :) : 0.000159 
+Actual proceso 1 hacia el proceso : 12 latencia de envio :) : 0.000201 
+Actual proceso 1 hacia el proceso : 13 latencia de envio :) : 0.000001 
+2 recibio mensaje '13' desde 13
+Actual proceso 4 hacia el proceso : 3 latencia de envio :) : 0.000142 
+5 recibio mensaje '10' desde 10
+Actual proceso 13 hacia el proceso : 6 latencia de envio :) : 0.000294 
+Actual proceso 13 hacia el proceso : 7 latencia de envio :) : 0.000001 
+2 recibio mensaje '10' desde 10
+Actual proceso 7 hacia el proceso : 6 latencia de envio :) : 0.000161 
+Actual proceso 7 hacia el proceso : 8 latencia de envio :) : 0.000153 
+5 recibio mensaje '13' desde 13
+Actual proceso 10 hacia el proceso : 8 latencia de envio :) : 0.000390 
+Actual proceso 1 hacia el proceso : 14 latencia de envio :) : 0.000158 
+Actual proceso 1 hacia el proceso : 15 latencia de envio :) : 0.000134 
+1 recibio mensaje '4' desde 4
+1 recibio mensaje '7' desde 7
+1 recibio mensaje '10' desde 10
+1 recibio mensaje '13' desde 13
+Actual proceso 13 hacia el proceso : 8 latencia de envio :) : 0.000378 
+Actual proceso 7 hacia el proceso : 9 latencia de envio :) : 0.000142 
+Actual proceso 7 hacia el proceso : 10 latencia de envio :) : 0.000002 
+Actual proceso 4 hacia el proceso : 5 latencia de envio :) : 0.000240 
+Actual proceso 4 hacia el proceso : 6 latencia de envio :) : 0.000103 
+Actual proceso 4 hacia el proceso : 7 latencia de envio :) : 0.000001 
+Actual proceso 13 hacia el proceso : 9 latencia de envio :) : 0.000316 
+Actual proceso 13 hacia el proceso : 10 latencia de envio :) : 0.000001 
+Actual proceso 7 hacia el proceso : 11 latencia de envio :) : 0.000156 
+Actual proceso 4 hacia el proceso : 8 latencia de envio :) : 0.000105 
+Actual proceso 13 hacia el proceso : 11 latencia de envio :) : 0.000340 
+Actual proceso 4 hacia el proceso : 9 latencia de envio :) : 0.000115 
+Actual proceso 4 hacia el proceso : 10 latencia de envio :) : 0.000001 
+Actual proceso 7 hacia el proceso : 12 latencia de envio :) : 0.000295 
+Actual proceso 7 hacia el proceso : 13 latencia de envio :) : 0.000001 
+Actual proceso 7 hacia el proceso : 14 latencia de envio :) : 0.000090 
+Actual proceso 13 hacia el proceso : 12 latencia de envio :) : 0.000129 
+Actual proceso 4 hacia el proceso : 11 latencia de envio :) : 0.000129 
+Actual proceso 4 hacia el proceso : 12 latencia de envio :) : 0.000161 
+Actual proceso 4 hacia el proceso : 13 latencia de envio :) : 0.000001 
+Actual proceso 13 hacia el proceso : 14 latencia de envio :) : 0.000160 
+Actual proceso 4 hacia el proceso : 14 latencia de envio :) : 0.000093 
+Actual proceso 7 hacia el proceso : 15 latencia de envio :) : 0.000156 
+7 recibio mensaje '1' desde 1
+7 recibio mensaje '4' desde 4
+7 recibio mensaje '10' desde 10
+7 recibio mensaje '13' desde 13
+Actual proceso 4 hacia el proceso : 15 latencia de envio :) : 0.000096 
+4 recibio mensaje '1' desde 1
+4 recibio mensaje '7' desde 7
+4 recibio mensaje '10' desde 10
+4 recibio mensaje '13' desde 13
+Actual proceso 10 hacia el proceso : 9 latencia de envio :) : 0.001463 
+Actual proceso 10 hacia el proceso : 11 latencia de envio :) : 0.000114 
+Actual proceso 10 hacia el proceso : 12 latencia de envio :) : 0.000110 
+Actual proceso 10 hacia el proceso : 13 latencia de envio :) : 0.000001 
+Actual proceso 10 hacia el proceso : 14 latencia de envio :) : 0.000108 
+Actual proceso 10 hacia el proceso : 15 latencia de envio :) : 0.000109 
+10 recibio mensaje '1' desde 1
+10 recibio mensaje '4' desde 4
+10 recibio mensaje '7' desde 7
+10 recibio mensaje '13' desde 13
+Actual proceso 13 hacia el proceso : 15 latencia de envio :) : 0.001844 
+13 recibio mensaje '1' desde 1
+13 recibio mensaje '4' desde 4
+13 recibio mensaje '7' desde 7
+13 recibio mensaje '10' desde 10
+1 recibio mensaje '2' desde 2
+1 recibio mensaje '8' desde 8
+13 recibio mensaje '2' desde 2
+10 recibio mensaje '2' desde 2
+10 recibio mensaje '5' desde 5
+1 recibio mensaje '11' desde 11
+4 recibio mensaje '2' desde 2
+13 recibio mensaje '5' desde 5
+1 recibio mensaje '5' desde 5
+0 recibio mensaje '1' desde 1
+2 recibio mensaje '4' desde 4
+11 recibio mensaje '1' desde 1
+6 recibio mensaje '5' desde 5
+5 recibio mensaje '6' desde 6
+5 recibio mensaje '0' desde 0
+6 recibio mensaje '2' desde 2
+2 recibio mensaje '6' desde 6
+7 recibio mensaje '2' desde 2
+2 recibio mensaje '7' desde 7
+0 recibio mensaje '11' desde 11
+0 recibio mensaje '14' desde 14
+9 recibio mensaje '1' desde 1
+15 recibio mensaje '1' desde 1
+6 recibio mensaje '1' desde 1
+6 recibio mensaje '7' desde 7
+3 recibio mensaje '1' desde 1
+3 recibio mensaje '2' desde 2
+3 recibio mensaje '7' desde 7
+4 recibio mensaje '11' desde 11
+4 recibio mensaje '15' desde 15
+6 recibio mensaje '13' desde 13
+10 recibio mensaje '11' desde 11
+10 recibio mensaje '0' desde 0
+15 recibio mensaje '8' desde 8
+10 recibio mensaje '14' desde 14
+15 recibio mensaje '7' desde 7
+10 recibio mensaje '6' desde 6
+15 recibio mensaje '13' desde 13
+4 recibio mensaje '14' desde 14
+15 recibio mensaje '2' desde 2
+1 recibio mensaje '15' desde 15
+12 recibio mensaje '8' desde 8
+12 recibio mensaje '11' desde 11
+12 recibio mensaje '14' desde 14
+1 recibio mensaje '0' desde 0
+2 recibio mensaje '3' desde 3
+3 recibio mensaje '10' desde 10
+1 recibio mensaje '12' desde 12
+14 recibio mensaje '15' desde 15
+14 recibio mensaje '0' desde 0
+3 recibio mensaje '13' desde 13
+1 recibio mensaje '9' desde 9
+14 recibio mensaje '3' desde 3
+12 recibio mensaje '4' desde 4
+7 recibio mensaje '6' desde 6
+11 recibio mensaje '15' desde 15
+11 recibio mensaje '0' desde 0
+9 recibio mensaje '13' desde 13
+1 recibio mensaje '3' desde 3
+8 recibio mensaje '12' desde 12
+8 recibio mensaje '0' desde 0
+9 recibio mensaje '4' desde 4
+7 recibio mensaje '3' desde 3
+11 recibio mensaje '12' desde 12
+3 recibio mensaje '4' desde 4
+10 recibio mensaje '3' desde 3
+14 recibio mensaje '12' desde 12
+3 recibio mensaje '8' desde 8
+13 recibio mensaje '6' desde 6
+2 recibio mensaje '12' desde 12
+2 recibio mensaje '15' desde 15
+0 recibio mensaje '4' desde 4
+13 recibio mensaje '0' desde 0
+8 recibio mensaje '3' desde 3
+13 recibio mensaje '3' desde 3
+7 recibio mensaje '15' desde 15
+13 recibio mensaje '9' desde 9
+13 recibio mensaje '15' desde 15
+13 recibio mensaje '12' desde 12
+12 recibio mensaje '13' desde 13
+4 recibio mensaje '12' desde 12
+4 recibio mensaje '9' desde 9
+4 recibio mensaje '3' desde 3
+6 recibio mensaje '4' desde 4
+5 recibio mensaje '3' desde 3
+14 recibio mensaje '9' desde 9
+11 recibio mensaje '3' desde 3
+11 recibio mensaje '9' desde 9
+3 recibio mensaje '5' desde 5
+3 recibio mensaje '11' desde 11
+9 recibio mensaje '11' desde 11
+9 recibio mensaje '14' desde 14
+15 recibio mensaje '5' desde 5
+5 recibio mensaje '15' desde 15
+5 recibio mensaje '12' desde 12
+12 recibio mensaje '5' desde 5
+4 recibio mensaje '6' desde 6
+4 recibio mensaje '0' desde 0
+14 recibio mensaje '1' desde 1
+3 recibio mensaje '14' desde 14
+14 recibio mensaje '10' desde 10
+1 recibio mensaje '14' desde 14
+12 recibio mensaje '10' desde 10
+15 recibio mensaje '10' desde 10
+1 recibio mensaje '6' desde 6
+15 recibio mensaje '4' desde 4
+10 recibio mensaje '12' desde 12
+10 recibio mensaje '15' desde 15
+12 recibio mensaje '1' desde 1
+8 recibio mensaje '10' desde 10
+10 recibio mensaje '9' desde 9
+14 recibio mensaje '4' desde 4
+15 recibio mensaje '14' desde 14
+15 recibio mensaje '11' desde 11
+9 recibio mensaje '10' desde 10
+10 recibio mensaje '8' desde 8
+0 recibio mensaje '2' desde 2
+12 recibio mensaje '2' desde 2
+8 recibio mensaje '15' desde 15
+11 recibio mensaje '10' desde 10
+6 recibio mensaje '10' desde 10
+8 recibio mensaje '4' desde 4
+11 recibio mensaje '4' desde 4
+9 recibio mensaje '2' desde 2
+2 recibio mensaje '9' desde 9
+2 recibio mensaje '0' desde 0
+12 recibio mensaje '7' desde 7
+9 recibio mensaje '7' desde 7
+7 recibio mensaje '9' desde 9
+7 recibio mensaje '12' desde 12
+0 recibio mensaje '7' desde 7
+6 recibio mensaje '8' desde 8
+11 recibio mensaje '7' desde 7
+11 recibio mensaje '13' desde 13
+5 recibio mensaje '9' desde 9
+8 recibio mensaje '6' desde 6
+8 recibio mensaje '9' desde 9
+8 recibio mensaje '13' desde 13
+14 recibio mensaje '6' desde 6
+14 recibio mensaje '13' desde 13
+9 recibio mensaje '5' desde 5
+9 recibio mensaje '8' desde 8
+6 recibio mensaje '14' desde 14
+7 recibio mensaje '11' desde 11
+13 recibio mensaje '11' desde 11
+13 recibio mensaje '8' desde 8
+7 recibio mensaje '0' desde 0
+13 recibio mensaje '14' desde 14
+6 recibio mensaje '11' desde 11
+11 recibio mensaje '6' desde 6
+8 recibio mensaje '7' desde 7
+14 recibio mensaje '7' desde 7
+5 recibio mensaje '4' desde 4
+5 recibio mensaje '7' desde 7
+7 recibio mensaje '8' desde 8
+7 recibio mensaje '14' desde 14
+7 recibio mensaje '5' desde 5
+4 recibio mensaje '5' desde 5
+4 recibio mensaje '8' desde 8

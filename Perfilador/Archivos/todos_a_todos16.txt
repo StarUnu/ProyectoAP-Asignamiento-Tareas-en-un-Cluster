@@ -1,0 +1,272 @@
+6 tiempo mensaje 0.003646 
+0 sumatoria 0.003646 
+6 recibio mensaje '3' desde 3
+6 recibio mensaje '9' desde 9
+6 recibio mensaje '15' desde 15
+6 recibio mensaje '12' desde 12
+6 recibio mensaje '0' desde 0
+3 tiempo mensaje 0.006468 
+0 sumatoria 0.006468 
+3 recibio mensaje '6' desde 6
+3 recibio mensaje '0' desde 0
+3 recibio mensaje '9' desde 9
+3 recibio mensaje '12' desde 12
+3 recibio mensaje '15' desde 15
+0 tiempo mensaje 0.003194 
+0 sumatoria 0.003194 
+0 recibio mensaje '3' desde 3
+0 recibio mensaje '6' desde 6
+0 recibio mensaje '9' desde 9
+0 recibio mensaje '12' desde 12
+0 recibio mensaje '15' desde 15
+15 tiempo mensaje 0.006593 
+0 sumatoria 0.006593 
+15 recibio mensaje '3' desde 3
+15 recibio mensaje '0' desde 0
+15 recibio mensaje '6' desde 6
+11 tiempo mensaje 0.005858 
+0 sumatoria 0.005858 
+9 tiempo mensaje 0.020331 
+0 sumatoria 0.020331 
+9 recibio mensaje '3' desde 3
+9 recibio mensaje '0' desde 0
+9 recibio mensaje '6' desde 6
+9 recibio mensaje '15' desde 15
+11 recibio mensaje '2' desde 2
+11 recibio mensaje '5' desde 5
+15 recibio mensaje '9' desde 9
+2 tiempo mensaje 0.005903 
+0 sumatoria 0.005903 
+2 recibio mensaje '5' desde 5
+2 recibio mensaje '8' desde 8
+2 recibio mensaje '11' desde 11
+2 recibio mensaje '14' desde 14
+9 recibio mensaje '12' desde 12
+5 tiempo mensaje 0.006186 
+0 sumatoria 0.006186 
+5 recibio mensaje '2' desde 2
+5 recibio mensaje '8' desde 8
+5 recibio mensaje '11' desde 11
+5 recibio mensaje '14' desde 14
+15 recibio mensaje '12' desde 12
+11 recibio mensaje '8' desde 8
+12 tiempo mensaje 0.017380 
+0 sumatoria 0.017380 
+11 recibio mensaje '14' desde 14
+12 recibio mensaje '3' desde 3
+12 recibio mensaje '0' desde 0
+12 recibio mensaje '6' desde 6
+8 tiempo mensaje 0.006959 
+0 sumatoria 0.006959 
+8 recibio mensaje '2' desde 2
+8 recibio mensaje '5' desde 5
+8 recibio mensaje '11' desde 11
+8 recibio mensaje '14' desde 14
+12 recibio mensaje '9' desde 9
+12 recibio mensaje '15' desde 15
+14 tiempo mensaje 0.007643 
+0 sumatoria 0.007643 
+14 recibio mensaje '2' desde 2
+14 recibio mensaje '5' desde 5
+14 recibio mensaje '8' desde 8
+14 recibio mensaje '11' desde 11
+0 recibio mensaje '5' desde 5
+1 tiempo mensaje 0.002365 
+0 sumatoria 0.002365 
+1 recibio mensaje '4' desde 4
+1 recibio mensaje '7' desde 7
+1 recibio mensaje '13' desde 13
+1 recibio mensaje '10' desde 10
+4 tiempo mensaje 0.002984 
+0 sumatoria 0.002984 
+4 recibio mensaje '1' desde 1
+4 recibio mensaje '13' desde 13
+4 recibio mensaje '10' desde 10
+4 recibio mensaje '7' desde 7
+7 tiempo mensaje 0.004188 
+0 sumatoria 0.004188 
+7 recibio mensaje '1' desde 1
+7 recibio mensaje '4' desde 4
+7 recibio mensaje '10' desde 10
+7 recibio mensaje '13' desde 13
+10 tiempo mensaje 0.003565 
+0 sumatoria 0.003565 
+10 recibio mensaje '1' desde 1
+10 recibio mensaje '4' desde 4
+10 recibio mensaje '7' desde 7
+10 recibio mensaje '13' desde 13
+13 tiempo mensaje 0.017561 
+0 sumatoria 0.017561 
+13 recibio mensaje '1' desde 1
+13 recibio mensaje '4' desde 4
+13 recibio mensaje '7' desde 7
+13 recibio mensaje '10' desde 10
+3 recibio mensaje '11' desde 11
+0 recibio mensaje '2' desde 2
+11 recibio mensaje '3' desde 3
+2 recibio mensaje '1' desde 1
+2 recibio mensaje '0' desde 0
+0 recibio mensaje '8' desde 8
+2 recibio mensaje '4' desde 4
+0 recibio mensaje '11' desde 11
+5 recibio mensaje '1' desde 1
+5 recibio mensaje '0' desde 0
+5 recibio mensaje '4' desde 4
+0 recibio mensaje '14' desde 14
+1 recibio mensaje '2' desde 2
+4 recibio mensaje '2' desde 2
+1 recibio mensaje '5' desde 5
+4 recibio mensaje '5' desde 5
+9 recibio mensaje '7' desde 7
+15 recibio mensaje '7' desde 7
+7 recibio mensaje '15' desde 15
+7 recibio mensaje '9' desde 9
+0 recibio mensaje '4' desde 4
+0 recibio mensaje '7' desde 7
+3 recibio mensaje '4' desde 4
+4 recibio mensaje '3' desde 3
+12 recibio mensaje '1' desde 1
+4 recibio mensaje '0' desde 0
+3 recibio mensaje '1' desde 1
+9 recibio mensaje '1' desde 1
+15 recibio mensaje '1' desde 1
+1 recibio mensaje '3' desde 3
+1 recibio mensaje '9' desde 9
+1 recibio mensaje '12' desde 12
+6 recibio mensaje '1' desde 1
+6 recibio mensaje '4' desde 4
+1 recibio mensaje '15' desde 15
+1 recibio mensaje '6' desde 6
+1 recibio mensaje '0' desde 0
+4 recibio mensaje '6' desde 6
+0 recibio mensaje '1' desde 1
+11 recibio mensaje '9' desde 9
+11 recibio mensaje '0' desde 0
+9 recibio mensaje '11' desde 11
+3 recibio mensaje '14' desde 14
+14 recibio mensaje '3' desde 3
+14 recibio mensaje '0' desde 0
+2 recibio mensaje '7' desde 7
+2 recibio mensaje '10' desde 10
+8 recibio mensaje '4' desde 4
+8 recibio mensaje '0' desde 0
+8 recibio mensaje '7' desde 7
+4 recibio mensaje '11' desde 11
+11 recibio mensaje '4' desde 4
+11 recibio mensaje '10' desde 10
+7 recibio mensaje '11' desde 11
+11 recibio mensaje '7' desde 7
+7 recibio mensaje '0' desde 0
+14 recibio mensaje '7' desde 7
+15 recibio mensaje '14' desde 14
+4 recibio mensaje '8' desde 8
+6 recibio mensaje '10' desde 10
+14 recibio mensaje '15' desde 15
+10 recibio mensaje '11' desde 11
+12 recibio mensaje '4' desde 4
+11 recibio mensaje '12' desde 12
+10 recibio mensaje '5' desde 5
+15 recibio mensaje '4' desde 4
+2 recibio mensaje '12' desde 12
+7 recibio mensaje '14' desde 14
+6 recibio mensaje '7' desde 7
+8 recibio mensaje '9' desde 9
+4 recibio mensaje '14' desde 14
+12 recibio mensaje '5' desde 5
+5 recibio mensaje '12' desde 12
+5 recibio mensaje '15' desde 15
+7 recibio mensaje '2' desde 2
+7 recibio mensaje '8' desde 8
+9 recibio mensaje '4' desde 4
+11 recibio mensaje '15' desde 15
+10 recibio mensaje '2' desde 2
+15 recibio mensaje '5' desde 5
+8 recibio mensaje '15' desde 15
+10 recibio mensaje '8' desde 8
+15 recibio mensaje '11' desde 11
+14 recibio mensaje '6' desde 6
+10 recibio mensaje '14' desde 14
+15 recibio mensaje '8' desde 8
+5 recibio mensaje '9' desde 9
+1 recibio mensaje '14' desde 14
+6 recibio mensaje '14' desde 14
+2 recibio mensaje '9' desde 9
+7 recibio mensaje '5' desde 5
+12 recibio mensaje '11' desde 11
+8 recibio mensaje '12' desde 12
+7 recibio mensaje '12' desde 12
+3 recibio mensaje '7' desde 7
+14 recibio mensaje '9' desde 9
+10 recibio mensaje '9' desde 9
+9 recibio mensaje '5' desde 5
+10 recibio mensaje '12' desde 12
+12 recibio mensaje '7' desde 7
+13 recibio mensaje '12' desde 12
+12 recibio mensaje '8' desde 8
+13 recibio mensaje '0' desde 0
+0 recibio mensaje '13' desde 13
+13 recibio mensaje '3' desde 3
+12 recibio mensaje '10' desde 10
+12 recibio mensaje '13' desde 13
+7 recibio mensaje '3' desde 3
+9 recibio mensaje '14' desde 14
+7 recibio mensaje '6' desde 6
+6 recibio mensaje '13' desde 13
+10 recibio mensaje '6' desde 6
+3 recibio mensaje '10' desde 10
+4 recibio mensaje '9' desde 9
+0 recibio mensaje '10' desde 10
+4 recibio mensaje '12' desde 12
+4 recibio mensaje '15' desde 15
+13 recibio mensaje '6' desde 6
+15 recibio mensaje '10' desde 10
+5 recibio mensaje '7' desde 7
+11 recibio mensaje '13' desde 13
+11 recibio mensaje '1' desde 1
+14 recibio mensaje '4' desde 4
+10 recibio mensaje '3' desde 3
+10 recibio mensaje '0' desde 0
+1 recibio mensaje '11' desde 11
+13 recibio mensaje '11' desde 11
+10 recibio mensaje '15' desde 15
+9 recibio mensaje '10' desde 10
+8 recibio mensaje '10' desde 10
+14 recibio mensaje '10' desde 10
+5 recibio mensaje '10' desde 10
+12 recibio mensaje '2' desde 2
+9 recibio mensaje '8' desde 8
+3 recibio mensaje '13' desde 13
+14 recibio mensaje '1' desde 1
+14 recibio mensaje '12' desde 12
+2 recibio mensaje '13' desde 13
+5 recibio mensaje '13' desde 13
+8 recibio mensaje '1' desde 1
+8 recibio mensaje '13' desde 13
+1 recibio mensaje '8' desde 8
+13 recibio mensaje '8' desde 8
+13 recibio mensaje '5' desde 5
+13 recibio mensaje '2' desde 2
+9 recibio mensaje '2' desde 2
+2 recibio mensaje '3' desde 3
+15 recibio mensaje '2' desde 2
+3 recibio mensaje '2' desde 2
+9 recibio mensaje '13' desde 13
+15 recibio mensaje '13' desde 13
+2 recibio mensaje '15' desde 15
+13 recibio mensaje '9' desde 9
+13 recibio mensaje '15' desde 15
+3 recibio mensaje '5' desde 5
+3 recibio mensaje '8' desde 8
+5 recibio mensaje '3' desde 3
+6 recibio mensaje '11' desde 11
+8 recibio mensaje '3' desde 3
+11 recibio mensaje '6' desde 6
+14 recibio mensaje '13' desde 13
+13 recibio mensaje '14' desde 14
+12 recibio mensaje '14' desde 14
+6 recibio mensaje '5' desde 5
+6 recibio mensaje '8' desde 8
+6 recibio mensaje '2' desde 2
+2 recibio mensaje '6' desde 6
+5 recibio mensaje '6' desde 6
+8 recibio mensaje '6' desde 6

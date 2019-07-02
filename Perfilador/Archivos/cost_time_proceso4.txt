@@ -1,0 +1,24 @@
+Actual proceso 3 hacia el proceso : 0 latencia de envio :) : 0.000008 
+Actual proceso 0 hacia el proceso : 1 latencia de envio :) : 0.000479 
+Actual proceso 3 hacia el proceso : 1 latencia de envio :) : 0.000470 
+Actual proceso 0 hacia el proceso : 2 latencia de envio :) : 0.000319 
+Actual proceso 0 hacia el proceso : 3 latencia de envio :) : 0.000013 
+0 recibio mensaje '3' desde 3
+Actual proceso 3 hacia el proceso : 2 latencia de envio :) : 0.000466 
+Actual proceso 2 hacia el proceso : 0 latencia de envio :) : 0.000396 
+Actual proceso 2 hacia el proceso : 1 latencia de envio :) : 0.000299 
+Actual proceso 2 hacia el proceso : 3 latencia de envio :) : 0.000261 
+Actual proceso 1 hacia el proceso : 0 latencia de envio :) : 0.000618 
+Actual proceso 1 hacia el proceso : 2 latencia de envio :) : 0.000413 
+Actual proceso 1 hacia el proceso : 3 latencia de envio :) : 0.000245 
+3 recibio mensaje '2' desde 2
+3 recibio mensaje '0' desde 0
+0 recibio mensaje '2' desde 2
+2 recibio mensaje '3' desde 3
+2 recibio mensaje '0' desde 0
+2 recibio mensaje '1' desde 1
+0 recibio mensaje '1' desde 1
+3 recibio mensaje '1' desde 1
+1 recibio mensaje '2' desde 2
+1 recibio mensaje '0' desde 0
+1 recibio mensaje '3' desde 3
