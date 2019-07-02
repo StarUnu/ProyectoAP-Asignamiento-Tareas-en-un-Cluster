@@ -1,0 +1,4008 @@
+Mapeo3
+i =3 j= 1
+Matriz de entrada
+0 0.000356 0.000265 4e-06 0.000237 0.000271 2e-06 0.000226 
+0.000329 0 0.000214 0.000168 3e-06 0.000497 0.000514 2e-06 
+0.000436 0.000427 0 0.0003 0.00028 2e-06 0.000407 0.000256 
+1.2e-05 0.000299 0.000435 0 0.000407 0.000235 3e-06 0.000226 
+0.000623 3e-06 0.000456 0.0003 0 0.000249 0.000258 3e-06 
+0.000451 0.000383 2e-06 0.000271 0.000362 0 0.000386 0.000285 
+5e-06 0.000403 0.000566 3e-06 0.00047 0.00027 0 0.000173 
+0.000674 2e-06 0.000483 0.000381 3e-06 0.000322 0.000239 0 
+
+
+
+
+
+
+
+
+0 0.000356 0.000265 4e-06 0.000237 0.000271 2e-06 0.000226 
+0.000329 0 0.000214 0.000168 3e-06 0.000497 0.000514 2e-06 
+0.000436 0.000427 0 0.0003 0.00028 2e-06 0.000407 0.000256 
+1.2e-05 0.000299 0.000435 0 0.000407 0.000235 3e-06 0.000226 
+0.000623 3e-06 0.000456 0.0003 0 0.000249 0.000258 3e-06 
+0.000451 0.000383 2e-06 0.000271 0.000362 0 0.000386 0.000285 
+5e-06 0.000403 0.000566 3e-06 0.00047 0.00027 0 0.000173 
+0.000674 2e-06 0.000483 0.000381 3e-06 0.000322 0.000239 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 1  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0.000356  0.000265  4e-06  0.000237  0.000271  2e-06  0.000226 
+ 0.000329  0  0.000214  0.000168  3e-06  0.000497  0.000514  2e-06 
+ 0.000436  0.000427  0  0.0003  0.00028  2e-06  0.000407  0.000256 
+ 1.2e-05  0.000299  0.000435  0  0.000407  0.000235  3e-06  0.000226 
+ 0.000623  3e-06  0.000456  0.0003  0  0.000249  0.000258  3e-06 
+ 0.000451  0.000383  2e-06  0.000271  0.000362  0  0.000386  0.000285 
+ 5e-06  0.000403  0.000566  3e-06  0.00047  0.00027  0  0.000173 
+ 0.000674  2e-06  0.000483  0.000381  3e-06  0.000322  0.000239  0 
+Imprimir REsult
+Imprimir
+0-0.000356-0.000265-4e-06-0.000237-0.000271-2e-06-0.000226-
+0.000329-0-0.000214-0.000168-3e-06-0.000497-0.000514-2e-06-
+0.000436-0.000427-0-0.0003-0.00028-2e-06-0.000407-0.000256-
+1.2e-05-0.000299-0.000435-0-0.000407-0.000235-3e-06-0.000226-
+0.000623-3e-06-0.000456-0.0003-0-0.000249-0.000258-3e-06-
+0.000451-0.000383-2e-06-0.000271-0.000362-0-0.000386-0.000285-
+5e-06-0.000403-0.000566-3e-06-0.00047-0.00027-0-0.000173-
+0.000674-2e-06-0.000483-0.000381-3e-06-0.000322-0.000239-0-
+------------------
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =3 j= 2
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =2 j= 1
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =2 j= 2
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =1 j= 1
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+Mapeo3
+i =3 j= 1
+Matriz de entrada
+0 0.000356 0.000265 4e-06 0.000237 0.000271 2e-06 0.000226 
+0.000329 0 0.000214 0.000168 3e-06 0.000497 0.000514 2e-06 
+0.000436 0.000427 0 0.0003 0.00028 2e-06 0.000407 0.000256 
+1.2e-05 0.000299 0.000435 0 0.000407 0.000235 3e-06 0.000226 
+0.000623 3e-06 0.000456 0.0003 0 0.000249 0.000258 3e-06 
+0.000451 0.000383 2e-06 0.000271 0.000362 0 0.000386 0.000285 
+5e-06 0.000403 0.000566 3e-06 0.00047 0.00027 0 0.000173 
+0.000674 2e-06 0.000483 0.000381 3e-06 0.000322 0.000239 0 
+
+
+
+
+
+
+
+
+0 0.000356 0.000265 4e-06 0.000237 0.000271 2e-06 0.000226 
+0.000329 0 0.000214 0.000168 3e-06 0.000497 0.000514 2e-06 
+0.000436 0.000427 0 0.0003 0.00028 2e-06 0.000407 0.000256 
+1.2e-05 0.000299 0.000435 0 0.000407 0.000235 3e-06 0.000226 
+0.000623 3e-06 0.000456 0.0003 0 0.000249 0.000258 3e-06 
+0.000451 0.000383 2e-06 0.000271 0.000362 0 0.000386 0.000285 
+5e-06 0.000403 0.000566 3e-06 0.00047 0.00027 0 0.000173 
+0.000674 2e-06 0.000483 0.000381 3e-06 0.000322 0.000239 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 1  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0.000356  0.000265  4e-06  0.000237  0.000271  2e-06  0.000226 
+ 0.000329  0  0.000214  0.000168  3e-06  0.000497  0.000514  2e-06 
+ 0.000436  0.000427  0  0.0003  0.00028  2e-06  0.000407  0.000256 
+ 1.2e-05  0.000299  0.000435  0  0.000407  0.000235  3e-06  0.000226 
+ 0.000623  3e-06  0.000456  0.0003  0  0.000249  0.000258  3e-06 
+ 0.000451  0.000383  2e-06  0.000271  0.000362  0  0.000386  0.000285 
+ 5e-06  0.000403  0.000566  3e-06  0.00047  0.00027  0  0.000173 
+ 0.000674  2e-06  0.000483  0.000381  3e-06  0.000322  0.000239  0 
+Imprimir REsult
+Imprimir
+0-0.000356-0.000265-4e-06-0.000237-0.000271-2e-06-0.000226-
+0.000329-0-0.000214-0.000168-3e-06-0.000497-0.000514-2e-06-
+0.000436-0.000427-0-0.0003-0.00028-2e-06-0.000407-0.000256-
+1.2e-05-0.000299-0.000435-0-0.000407-0.000235-3e-06-0.000226-
+0.000623-3e-06-0.000456-0.0003-0-0.000249-0.000258-3e-06-
+0.000451-0.000383-2e-06-0.000271-0.000362-0-0.000386-0.000285-
+5e-06-0.000403-0.000566-3e-06-0.00047-0.00027-0-0.000173-
+0.000674-2e-06-0.000483-0.000381-3e-06-0.000322-0.000239-0-
+------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =3 j= 2
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =2 j= 1
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =2 j= 2
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =1 j= 1
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+Mapeo3
+i =3 j= 1
+Matriz de entrada
+0 0.000356 0.000265 4e-06 0.000237 0.000271 2e-06 0.000226 
+0.000329 0 0.000214 0.000168 3e-06 0.000497 0.000514 2e-06 
+0.000436 0.000427 0 0.0003 0.00028 2e-06 0.000407 0.000256 
+1.2e-05 0.000299 0.000435 0 0.000407 0.000235 3e-06 0.000226 
+0.000623 3e-06 0.000456 0.0003 0 0.000249 0.000258 3e-06 
+0.000451 0.000383 2e-06 0.000271 0.000362 0 0.000386 0.000285 
+5e-06 0.000403 0.000566 3e-06 0.00047 0.00027 0 0.000173 
+0.000674 2e-06 0.000483 0.000381 3e-06 0.000322 0.000239 0 
+
+
+
+
+
+
+
+
+0 0.000356 0.000265 4e-06 0.000237 0.000271 2e-06 0.000226 
+0.000329 0 0.000214 0.000168 3e-06 0.000497 0.000514 2e-06 
+0.000436 0.000427 0 0.0003 0.00028 2e-06 0.000407 0.000256 
+1.2e-05 0.000299 0.000435 0 0.000407 0.000235 3e-06 0.000226 
+0.000623 3e-06 0.000456 0.0003 0 0.000249 0.000258 3e-06 
+0.000451 0.000383 2e-06 0.000271 0.000362 0 0.000386 0.000285 
+5e-06 0.000403 0.000566 3e-06 0.00047 0.00027 0 0.000173 
+0.000674 2e-06 0.000483 0.000381 3e-06 0.000322 0.000239 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 1  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0.000356  0.000265  4e-06  0.000237  0.000271  2e-06  0.000226 
+ 0.000329  0  0.000214  0.000168  3e-06  0.000497  0.000514  2e-06 
+ 0.000436  0.000427  0  0.0003  0.00028  2e-06  0.000407  0.000256 
+ 1.2e-05  0.000299  0.000435  0  0.000407  0.000235  3e-06  0.000226 
+ 0.000623  3e-06  0.000456  0.0003  0  0.000249  0.000258  3e-06 
+ 0.000451  0.000383  2e-06  0.000271  0.000362  0  0.000386  0.000285 
+ 5e-06  0.000403  0.000566  3e-06  0.00047  0.00027  0  0.000173 
+ 0.000674  2e-06  0.000483  0.000381  3e-06  0.000322  0.000239  0 
+Imprimir REsult
+Imprimir
+0-0.000356-0.000265-4e-06-0.000237-0.000271-2e-06-0.000226-
+0.000329-0-0.000214-0.000168-3e-06-0.000497-0.000514-2e-06-
+0.000436-0.000427-0-0.0003-0.00028-2e-06-0.000407-0.000256-
+1.2e-05-0.000299-0.000435-0-0.000407-0.000235-3e-06-0.000226-
+0.000623-3e-06-0.000456-0.0003-0-0.000249-0.000258-3e-06-
+0.000451-0.000383-2e-06-0.000271-0.000362-0-0.000386-0.000285-
+5e-06-0.000403-0.000566-3e-06-0.00047-0.00027-0-0.000173-
+0.000674-2e-06-0.000483-0.000381-3e-06-0.000322-0.000239-0-
+------------------
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0003560
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul0.0002650
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul4e-060
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0002370
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul0.0003290
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0002140
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul0.0001680
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul3e-060
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004360
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul0.0004270
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.00030
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul0.000280
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul1.2e-050
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0002990
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul0.0004350
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+old_resul0.0004070
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =3 j= 2
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =2 j= 1
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =2 j= 2
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+i =1 j= 1
+Matriz de entrada
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+
+
+
+
+
+
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+number of lines: 8
+cantidad de lineas final8
+ 1  1  1  1  1  1  1  1 
+ 0  0  0  0  0  0  0  0 
+number of lines: 8
+imprimiendo la matriz deberas de datos
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+Imprimir REsult
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+old_resul00
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+------------------
+Aggregated mat
+Imprimir
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+0-0-0-0-0-0-0-0-
+------------------

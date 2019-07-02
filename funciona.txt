@@ -1,0 +1,23 @@
+for(int i = num_of_level; i >= 0; i--){
+        //cout<<"Primer i"<<i<<endl;
+        for(int j=1; j<= i; j = j*2){
+            //cout<<"Hello"<<endl;
+            
+            objetoHungaro.makeAllocation(CM,result);
+            imprimir(result);
+            cout<<"------------------"<<endl;
+            //result = NULL; //assignment(CM, N, arity)*/
+            //aggregated_mat = aggregate_Cost_Matrix(CM, result);
+            //if (!old_result){
+                //new_result  = aggregate_Cost_Matrix(old_result, new_result);
+            //}
+            
+            //oldresult = new_result;
+            CM = aggregated_mat;
+        }
+    }
+    
+    //imprimir(CM);
+    //cout<<"------------------"<<endl;
+    //cout<<"Ingreso a ejecutar"<<endl;
+    //GenerarDot(aggregated_mat,'hola');
